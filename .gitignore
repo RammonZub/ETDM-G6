@@ -58,3 +58,5 @@ yarn-error.log*
 # Deployment / tooling
 .vercel/
 web/.vercel/
+web/.playwright-cli/
+web/output/
